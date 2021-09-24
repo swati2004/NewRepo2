@@ -16,7 +16,7 @@ namespace ConsoleApp1
             String teamname = Console.ReadLine();
             Console.WriteLine("Enter no of matches: ");
             int noOfMatches = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter total raid points: ");
+           
             long totalRaidPoints = long.Parse(Console.ReadLine());
             Console.WriteLine("Enter total Defence points: ");
             long totalDefencePoints = long.Parse(Console.ReadLine());
