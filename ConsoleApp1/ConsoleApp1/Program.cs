@@ -36,7 +36,7 @@ namespace ConsoleApp1
             long totalDefencePoints;
             string teamMembers;
             int NoOfTeamMembers;
-            int Balls;
+            float noOfBalls;
 
 
 
