@@ -34,6 +34,7 @@ namespace ConsoleApp1
             int noOfMatches;
             long totalRaidPoints;
             long totalDefencePoints;
+            string teamMembers;
 
 
 
